@@ -1,2 +1,2 @@
 # tennis-predictions-ML
-Using historial tennis match data to predict future outcomes
+Using historical tennis tournament match data to predict future outcomes
